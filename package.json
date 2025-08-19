@@ -1,6 +1,6 @@
 {
 	"private": true,
-	"name": "byok-chat",
+	"name": "vite-template-plain",
 	"type": "module",
 	"scripts": {
 		"format": "biome format --write",

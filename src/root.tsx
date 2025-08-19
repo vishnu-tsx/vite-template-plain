@@ -10,8 +10,8 @@ import { AppProviders } from "~/components/providers";
 
 export function meta() {
 	return [
-		{ title: "Byok Chat" },
-		{ name: "description", content: "Byok Chat" },
+		{ title: "Vite Template Plain" },
+		{ name: "description", content: "Vite Template Plain" },
 	] satisfies MetaDescriptor[];
 }
 
